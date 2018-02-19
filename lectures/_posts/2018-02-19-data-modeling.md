@@ -16,4 +16,5 @@ Hovoril som o:
           
 * [Slajdy [pdf]](/lectures/files/02_DataModeling.pdf)
   * [čarbanice [pdf]](/lectures/files/02_data_modeling_scrawls.pdf)
-  * Model pre ubytovanie dodám...
+  * [čarbanice ubytovanie 2018 [jpg]](/lectures/files/02_ubytovanie_2018.jpg)
+  * [čarbanice ubytovanie staré [jpg]](/lectures/files/02_ubytovanie_old.jpg)
