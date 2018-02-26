@@ -16,6 +16,7 @@ Hovoril som o:
 
 a písal som SQL:
 
+* [PostgreSQL download link](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
 * [DDL pre Postgres [sql]](/lectures/files/03_postgres_statements-DDL.sql)
 * [DDL pre MySQL/MariaDB DML [sql]](/lectures/files/03_mysql_statements-DDL.sql)
 * [DDL pre SQLite [sql]](/lectures/files/03_sqlite_statements-DDL.sql)
